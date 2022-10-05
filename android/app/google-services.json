@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459669683621",
+    "project_id": "agrimart-eecfd",
+    "storage_bucket": "agrimart-eecfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459669683621:android:e87e26f7592fc1d3bffc4c",
+        "android_client_info": {
+          "package_name": "com.main.agrimart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459669683621-oatcp40sfgsqtt50iis5e8pghc26tapk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyW-KV1py8MdK5vxf1FsCDezFKrXawg24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459669683621-oatcp40sfgsqtt50iis5e8pghc26tapk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

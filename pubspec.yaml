@@ -1,0 +1,76 @@
+name: block_agri_mart
+description: An agri business marketplace
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  cloud_firestore: null
+  cupertino_icons: ^1.0.2
+  dialogflow_grpc: null
+  encrypt: ^5.0.1
+  file_picker: null
+  firebase_auth: ^3.10.0
+  firebase_core: null
+  firebase_messaging: null
+  firebase_storage: null
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: null
+  flutter_speed_dial: ^6.0.0
+  flutter_svg: null
+  hive: null
+  hive_flutter: null
+  http: ^0.13.5
+  internet_connection_checker: ^0.0.1+4
+  intl: null
+  intl_phone_field: ^3.1.0
+  lottie: null
+  path_provider: null
+  provider: ^6.0.2
+  shared_preferences: null
+  shimmer: ^2.0.0
+  url_launcher: ^6.1.6
+  web3dart: null
+  web_socket_channel: ^2.2.0
+
+dev_dependencies:
+  build_runner: null
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+  hive_generator: null
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/avatars/
+    - assets/images/products/
+    - assets/fonts/
+    - assets/icons/
+    - assets/lottie/
+    - assets/credentials.json
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand/Quicksand-Regular.ttf
+        - asset: assets/fonts/Quicksand/Quicksand-Bold.ttf
+        - asset: assets/fonts/Quicksand/Quicksand-Medium.ttf
+        - asset: assets/fonts/Quicksand/Quicksand-Light.ttf
+        - asset: assets/fonts/Quicksand/Quicksand-SemiBold.ttf
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+        - asset: assets/fonts/Poppins/Poppins-Italic.ttf
+        - asset: assets/fonts/Poppins/Poppins-SemiBold.ttf
