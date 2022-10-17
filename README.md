@@ -1,6 +1,6 @@
 # AgriMart 
 
-An agribusiness marketplace built on blockchain. I am going. 
+An agribusiness marketplace built on blockchain.
 
 ## Abstract 
 Every person in the globe depends on agricultural products for their daily requirements.Given the complexity of the modern agricultural product supply chain and the number of parties involved, it can be challenging to pinpoint some essential details including product origin, seller identity, crop quality, and selling price[2] . In contrast to former years, our proposed system is designed to give producers (farmers) a fair price for their agricultural output. By enticing the nation's enthusiastic youth into agriculture, which is its main source of income, this suggested plan promotes entrepreneurship and market globalization. To promote transparency, traceability, trust, and security of supply chain transactions, our proposed solution integrates blockchain technology with decentralized transactions. We prescribed a smartphone application for secure electronic commerce that uses clear algorithms to record stakeholder interactions in the supply chain that boost confidence between involved parties.
